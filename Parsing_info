@@ -21,9 +21,9 @@ The flow of Web Scrapping is:
             driver.page_source()
 
 2)Parsing the source Code:
-    - use BeautifulSoup
+    - use BeautifulSoup, parsers: lxml, html5lib parser
     - create obj:
-            soup = BeautifulSoup(source_code)
+            soup = BeautifulSoup(source_code, parser(lxml))
 
     - use 'soup.find_all()' to get all the data from source_code of html based on tags and their properties
             table = soup.find_all("table", id="id") #will give specific table with id from html source code
