@@ -1,0 +1,32 @@
+The flow of Web Scrapping is:
+    Stages:
+            1) getting the source code from url : libraries- request, selinium(used when need dynamically populated data using js), urlib
+            2) source code parsing to extract the data: BeauifulSoup(widely used), lxml, scrapy(full framework for web crawling as well)
+
+
+1)Get the URL source code:
+    - packages used in project: selenium (as table was generated dynamically)
+
+    -create driver obj (select driver of your choice)
+            -download driver for the browser. ex- chromedriver.exe
+            driver = webdriver.browser_name("path, if the driver is not in current folder")
+
+    -get the url data:
+        driver.get(url)
+        -if authentication is required for url, you can send the details using:
+                driver.execute_script("javascript code to set details of specific field")
+                -ex :browser.execute_script(f'var element = document.getElementById("os_username"); element.value = "{username}";')
+
+    -get the url source code using:
+            driver.page_source()
+
+2)Parsing the source Code:
+    - use BeautifulSoup
+    - create obj:
+            soup = BeautifulSoup(source_code)
+
+    - use 'soup.find_all()' to get all the data from source_code of html based on tags and their properties
+            table = soup.find_all("table", id="id") #will give specific table with id from html source code
+            rows = table.find_all("row") # will give the list of rows of specific table specified by 'table'
+
+    - further likewise we can extract the data using "td" tag for a specific row, which will provide the list of "td".

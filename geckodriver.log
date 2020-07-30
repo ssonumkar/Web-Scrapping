@@ -1,0 +1,114 @@
+1596008186308	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ssonumka\\AppData\\Local\\Temp\\rust_mozprofilen9hE3z"
+LdrLoadDll: Ignoring the REDIRECT_TO_NOOP_ENTRYPOINT flag
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596008196792	Marionette	INFO	Listening on port 54163
+1596008196933	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://confluence-eng-sjc2.cisco.com/conf/s/153cab2ab4329dfd50a96c7dc94fbf2c-CDN/en_US/7901/0059a6c4a9a3d763ef46aeebecc5e24fefd039f0/95d0d2223c10f471f4bcbfd67d1bf1aa/_/download/contextbatch/js/main,-_super/batch.js?locale=en-US, line 1339: unreachable code after return statement
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 174: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript warning: https://confluence-eng-sjc2.cisco.com/conf/s/727eec4fbd89d9e791e1ae3111fbd919-CDN/en_US/7901/0059a6c4a9a3d763ef46aeebecc5e24fefd039f0/d2d11f514c96e94b0772cef61169e395/_/download/contextbatch/js/atl.confluence.plugins.pagetree-desktop,main,viewcontent,page,atl.general,atl.comments,-_super/batch.js?build-number=7901&confluence.table.resizable=true&highlightactions=true&hostenabled=true&locale=en-US&whisper-enabled=true, line 1373: unreachable code after return statement
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1596008434316	Marionette	INFO	Stopped listening on port 54163
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1596009287988	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ssonumka\\AppData\\Local\\Temp\\rust_mozprofileIpQnlm"
+LdrLoadDll: Ignoring the REDIRECT_TO_NOOP_ENTRYPOINT flag
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596009301124	Marionette	INFO	Listening on port 52146
+1596009301399	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3900C2,name=PContent::Msg_ScriptErrorWithStack) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x890001,name=PScriptCache::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript warning: https://confluence-eng-sjc2.cisco.com/conf/s/153cab2ab4329dfd50a96c7dc94fbf2c-CDN/en_US/7901/0059a6c4a9a3d763ef46aeebecc5e24fefd039f0/95d0d2223c10f471f4bcbfd67d1bf1aa/_/download/contextbatch/js/main,-_super/batch.js?locale=en-US, line 1339: unreachable code after return statement
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 174: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript warning: https://confluence-eng-sjc2.cisco.com/conf/s/727eec4fbd89d9e791e1ae3111fbd919-CDN/en_US/7901/0059a6c4a9a3d763ef46aeebecc5e24fefd039f0/d2d11f514c96e94b0772cef61169e395/_/download/contextbatch/js/atl.confluence.plugins.pagetree-desktop,main,viewcontent,page,atl.general,atl.comments,-_super/batch.js?build-number=7901&confluence.table.resizable=true&highlightactions=true&hostenabled=true&locale=en-US&whisper-enabled=true, line 1373: unreachable code after return statement
+1596013332408	Marionette	INFO	Stopped listening on port 52146
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ile" "C:\\Users\\ssonumka\\AppData\\Local\\Temp\\rust_mozprofilexzRFqc"
+LdrLoadDll: Ignoring the REDIRECT_TO_NOOP_ENTRYPOINT flag
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596009364979	Marionette	INFO	Listening on port 52242
+1596009365409	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://confluence-eng-sjc2.cisco.com/conf/s/153cab2ab4329dfd50a96c7dc94fbf2c-CDN/en_US/7901/0059a6c4a9a3d763ef46aeebecc5e24fefd039f0/95d0d2223c10f471f4bcbfd67d1bf1aa/_/download/contextbatch/js/main,-_super/batch.js?locale=en-US, line 1339: unreachable code after return statement
+1596013332688	Marionette	INFO	Stopped listening on port 52242
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ile" "C:\\Users\\ssonumka\\AppData\\Local\\Temp\\rust_mozprofilePpVkZV"
+LdrLoadDll: Ignoring the REDIRECT_TO_NOOP_ENTRYPOINT flag
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596009519393	Marionette	INFO	Listening on port 52367
+1596009519836	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://confluence-eng-sjc2.cisco.com/conf/s/153cab2ab4329dfd50a96c7dc94fbf2c-CDN/en_US/7901/0059a6c4a9a3d763ef46aeebecc5e24fefd039f0/95d0d2223c10f471f4bcbfd67d1bf1aa/_/download/contextbatch/js/main,-_super/batch.js?locale=en-US, line 1339: unreachable code after return statement
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 174: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript warning: https://confluence-eng-sjc2.cisco.com/conf/s/727eec4fbd89d9e791e1ae3111fbd919-CDN/en_US/7901/0059a6c4a9a3d763ef46aeebecc5e24fefd039f0/d2d11f514c96e94b0772cef61169e395/_/download/contextbatch/js/atl.confluence.plugins.pagetree-desktop,main,viewcontent,page,atl.general,atl.comments,-_super/batch.js?build-number=7901&confluence.table.resizable=true&highlightactions=true&hostenabled=true&locale=en-US&whisper-enabled=true, line 1373: unreachable code after return statement
+1596013334209	Marionette	INFO	Stopped listening on port 52367
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ile" "C:\\Users\\ssonumka\\AppData\\Local\\Temp\\rust_mozprofile0euV1Z"
+LdrLoadDll: Ignoring the REDIRECT_TO_NOOP_ENTRYPOINT flag
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596009644388	Marionette	INFO	Listening on port 52521
+1596009644659	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://confluence-eng-sjc2.cisco.com/conf/s/153cab2ab4329dfd50a96c7dc94fbf2c-CDN/en_US/7901/0059a6c4a9a3d763ef46aeebecc5e24fefd039f0/95d0d2223c10f471f4bcbfd67d1bf1aa/_/download/contextbatch/js/main,-_super/batch.js?locale=en-US, line 1339: unreachable code after return statement
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 174: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript warning: https://confluence-eng-sjc2.cisco.com/conf/s/727eec4fbd89d9e791e1ae3111fbd919-CDN/en_US/7901/0059a6c4a9a3d763ef46aeebecc5e24fefd039f0/d2d11f514c96e94b0772cef61169e395/_/download/contextbatch/js/atl.confluence.plugins.pagetree-desktop,main,viewcontent,page,atl.general,atl.comments,-_super/batch.js?build-number=7901&confluence.table.resizable=true&highlightactions=true&hostenabled=true&locale=en-US&whisper-enabled=true, line 1373: unreachable code after return statement
+1596013333305	Marionette	INFO	Stopped listening on port 52521
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ile" "C:\\Users\\ssonumka\\AppData\\Local\\Temp\\rust_mozprofileWQiUYn"
+LdrLoadDll: Ignoring the REDIRECT_TO_NOOP_ENTRYPOINT flag
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596009712319	Marionette	INFO	Listening on port 52635
+1596009712492	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://confluence-eng-sjc2.cisco.com/conf/s/153cab2ab4329dfd50a96c7dc94fbf2c-CDN/en_US/7901/0059a6c4a9a3d763ef46aeebecc5e24fefd039f0/95d0d2223c10f471f4bcbfd67d1bf1aa/_/download/contextbatch/js/main,-_super/batch.js?locale=en-US, line 1339: unreachable code after return statement
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 174: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 659"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:659:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:509:10
+_fetchURLContents@resource://devtools/server/actors/utils/TabSources.js:580:22
+urlContents@resource://devtools/server/actors/utils/TabSources.js:547:17
+_resurrectSource@resource://devtools/server/actors/thread.js:1998:69
+addAllSources@resource://devtools/server/actors/thread.js:1382:14
+onSources@resource://devtools/server/actors/thread.js:1388:10
+onPacket@resource://devtools/server/devtools-server-connection.js:380:58
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:16
+Line: 659, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 659: NS_ERROR_FAILURE: Failed to open input source 'file:///'
+1596013332681	Marionette	INFO	Stopped listening on port 52635
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1596013588520	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ssonumka\\AppData\\Local\\Temp\\rust_mozprofile7UjtWQ"
+LdrLoadDll: Ignoring the REDIRECT_TO_NOOP_ENTRYPOINT flag
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596013596265	Marionette	INFO	Listening on port 61021
+1596013596594	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://confluence-eng-sjc2.cisco.com/conf/s/153cab2ab4329dfd50a96c7dc94fbf2c-CDN/en_US/7901/0059a6c4a9a3d763ef46aeebecc5e24fefd039f0/95d0d2223c10f471f4bcbfd67d1bf1aa/_/download/contextbatch/js/main,-_super/batch.js?locale=en-US, line 1339: unreachable code after return statement
+JavaScript warning: https://confluence-eng-sjc2.cisco.com/conf/s/727eec4fbd89d9e791e1ae3111fbd919-CDN/en_US/7901/0059a6c4a9a3d763ef46aeebecc5e24fefd039f0/d2d11f514c96e94b0772cef61169e395/_/download/contextbatch/js/atl.confluence.plugins.pagetree-desktop,main,viewcontent,page,atl.general,atl.comments,-_super/batch.js?build-number=7901&confluence.table.resizable=true&highlightactions=true&hostenabled=true&locale=en-US&whisper-enabled=true, line 1373: unreachable code after return statement
+1596021226359	Marionette	INFO	Stopped listening on port 61021
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
